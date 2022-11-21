@@ -5,9 +5,9 @@
 We are a student-led society at the University of Glasgow formed by students passionate about Biomedical Engineering. The purpose of the Health Data Anlaytics Division is for students to develop practical programming and project management skills tackling a real world problem with real data. 
 This repository will document our progress throughout the academic year and it is organised in the following way: 
 
-1. [Training](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Training)
-2. [Project Proposals](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Project%20Proposals)
-3. [Data Analysis](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Data%20Analysis)
+1. [Training](https://github.com/alepgr/gubmes-hda/tree/main/Training)
+2. [Project Proposals](https://github.com/alepgr/gubmes-hda/tree/main/Project%20Proposals)
+3. [Data Analysis]
 
 
 If you are interested in participating in this new initiative please don't hesitate to contact us at gubmes@gmail.com and hope you enjoy our work! 
