@@ -7,7 +7,6 @@ This repository will document our progress throughout the academic year and it i
 
 1. [Training](https://github.com/alepgr/gubmes-hda/tree/main/Training)
 2. [Project Proposals](https://github.com/alepgr/gubmes-hda/tree/main/Project%20Proposals)
-3. [Data Analysis]
 
 
 If you are interested in participating in this new initiative please don't hesitate to contact us at gubmes@gmail.com and hope you enjoy our work! 
